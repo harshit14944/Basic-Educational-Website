@@ -1,0 +1,25 @@
+#tab1{
+    width: 100%;
+    background-color: red;
+}
+#tab2{
+    float: left;
+    font-size: xx-large;
+    width: 14%;
+    background-color: red;
+}
+#img1{
+    width: 72%;
+}
+#tab3{
+    float: right;
+    font-size: xx-large;
+    width: 14%;
+    background-color: red;
+}
+#pra1{
+    margin-left: 14%;
+    margin-right: 14%;
+    font-size: large;
+    color: crimson;
+}
